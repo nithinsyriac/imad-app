@@ -5,7 +5,7 @@ var element=document.getElementById('madi');
 var marginLeft=0;
 function moveRight()
 {
-    marginLeft=marginLeft+20;
+    marginLeft=marginLeft+2;
     madi.style.marginLeft=marginLeft+'px';
 }
 madi.onclick=function()
